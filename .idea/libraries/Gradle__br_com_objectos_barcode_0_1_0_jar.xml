@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: br.com.objectos:barcode:0.1.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.objectos/barcode/0.1.0/f55a8ff8ed0067a684186b8e0529aa358f1805df/barcode-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.objectos/barcode/0.1.0/f2d773554ff5a127c2dadc80361def76aabc1d58/barcode-0.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.objectos/barcode/0.1.0/d5b770f8458f8f25795b2fa26d590b279aab28fd/barcode-0.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

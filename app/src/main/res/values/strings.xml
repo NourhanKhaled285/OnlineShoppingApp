@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">OnlineShoppingProject</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="confirm" translatable="false">Confirm</string>
+    <string name="reset" translatable="false">Reset</string>
+    <string name="enter_sequrity_answer" translatable="false">Enter sequrity answer</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="my_cart" translatable="false">My Cart</string>
+    <string name="total" translatable="false">Total:</string>
+    <string name="checkout" translatable="false">Checkout</string>
+</resources>
